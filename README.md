@@ -1,2 +1,2 @@
 # Robocode_Andrejs_robot
-A robot of mine on Robocode.
+In school, we used Robocode in order to expand our programming knowledge. And so, I have created a robot on Robocode and would like to share its code. Robocode is written in Java, so the robot is written in Java as well. It basically goes to the right or left wall, depending on which one is closer, and goes on to choose whether to face up or down. Then, it scans for other robots as it moves up 250 pixels and thereafter down 250-350 pixels (randomised), shooting at full power upon scanning another robot.
